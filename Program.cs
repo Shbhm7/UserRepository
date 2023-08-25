@@ -1,5 +1,4 @@
 using UserRepository.Repositories;
-using UserRepositoryExample.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
